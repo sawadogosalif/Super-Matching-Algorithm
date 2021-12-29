@@ -22,11 +22,11 @@ considéré comme correspondant
 
 # Table of Contents
 
-. Construction de l’échantillon de Matching manuel
+- Construction de l’échantillon de Matching manuel
 
-. Similarité des noms et des adresses
+- Similarité des noms et des adresses
 
-. Similarité des distances
+- Similarité des distances
 
-. Seuil optimal de similarité et courbe ROC
+- Seuil optimal de similarité et courbe ROC
 
