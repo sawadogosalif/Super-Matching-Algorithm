@@ -9,7 +9,7 @@ La comparaison se fait sur la base de 3 paramètres :
 - Nom
 - Adresse
 - Distance (basée sur la géolocalisation - coordonnées GPS)
--
+- 
 Ces 3 paramètres n'ont pas la même importance. L'importance relative utilisée est : 75% 
 Nom, 15% Adresse, 10% Distance.
 Sur cette base, un score global de similarité est calculé, et les entrées TripAdvisor 
