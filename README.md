@@ -18,3 +18,15 @@ candidat potentiel.
 Dans certains cas, même le candidat potentiel n'est pas un bon candidat, c'est 
 pourquoi nous avons défini un seuil de similarité au-delà duquel le candidat est 
 considéré comme correspondant
+
+
+# Table of Contents
+
+. Construction de l’échantillon de Matching manuel
+
+. Similarité des noms et des adresses
+
+. Similarité des distances
+
+. Seuil optimal de similarité et courbe ROC
+
