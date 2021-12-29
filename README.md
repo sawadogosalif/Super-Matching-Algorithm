@@ -20,7 +20,7 @@ pourquoi nous avons défini un seuil de similarité au-delà duquel le candidat 
 considéré comme correspondant
 
 
-# Table of Contents
+# Etapes
 
 - Construction de l’échantillon de Matching manuel
 
